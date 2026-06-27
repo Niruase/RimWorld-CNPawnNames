@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace Niruase.CNPawnNames;
 
-public static class NameTables
+public static partial class NameTables
 {
     /// <summary>
     /// English male given names → Standard Chinese transliteration
