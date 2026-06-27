@@ -7,8 +7,8 @@
     <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
     <DebugType>None</DebugType>
     <LangVersion>latest</LangVersion>
-    <FileVersion>1.6.0</FileVersion>
-    <RootNamespace>Niruase.NoNameInGame</RootNamespace>
+    <FileVersion>1.0.0</FileVersion>
+    <RootNamespace>Niruase.CNPawnNames</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Krafs.Rimworld.Ref">

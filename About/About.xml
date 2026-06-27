@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>No Name in Game CN</name>
-  <packageId>Niruase.NoNameInGame</packageId>
+  <name>CN Pawn Names</name>
+  <packageId>Niruase.CNPawnNames</packageId>
   <author>Niruase</author>
   <url></url>
   <supportedVersions>

@@ -2,7 +2,7 @@ using HarmonyLib;
 using RimWorld;
 using Verse;
 
-namespace Niruase.NoNameInGame;
+namespace Niruase.CNPawnNames;
 
 [HarmonyPatch(typeof(PawnBioAndNameGenerator), "TryGetRandomUnusedSolidName")]
 public static class PawnBioAndNameGenerator_TryGetRandomUnusedSolidName_Patch

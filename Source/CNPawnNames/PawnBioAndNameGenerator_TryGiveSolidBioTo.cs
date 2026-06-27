@@ -1,7 +1,7 @@
 using HarmonyLib;
 using RimWorld;
 
-namespace Niruase.NoNameInGame;
+namespace Niruase.CNPawnNames;
 
 [HarmonyPatch(typeof(PawnBioAndNameGenerator), "TryGiveSolidBioTo")]
 public static class PawnBioAndNameGenerator_TryGiveSolidBioTo_Patch

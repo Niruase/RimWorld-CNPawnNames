@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Niruase.NoNameInGame;
+namespace Niruase.CNPawnNames;
 
 public static class NameTables
 {

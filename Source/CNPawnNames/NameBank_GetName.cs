@@ -2,7 +2,7 @@ using HarmonyLib;
 using RimWorld;
 using Verse;
 
-namespace Niruase.NoNameInGame;
+namespace Niruase.CNPawnNames;
 
 // 正确：目标类是 NameBank，方法是 NameBank.GetName
 [HarmonyPatch(typeof(NameBank), nameof(NameBank.GetName))]
