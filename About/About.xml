@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>CN Pawn Names</name>
   <packageId>Niruase.CNPawnNames</packageId>
+  <publishedFileId></publishedFileId>
   <author>Niruase</author>
   <url></url>
   <supportedVersions>
@@ -18,6 +19,6 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>Niruase personal mod. </description>
+  <description>Niruase personal mod.</description>
   <modVersion>1.0.0</modVersion>
 </ModMetaData>
